@@ -6,7 +6,7 @@ let friends = {
   "johnsmith@gamil.com": {
     firstName: "John",
     lastName: "Doe",
-    DOB: "22-12-1990",
+    DOB: "22-12-2000",
   },
   "annasmith@gamil.com": {
     firstName: "Anna",
